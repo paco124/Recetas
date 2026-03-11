@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Recetas Nutritivas',
   tagline: '150 Delicias Culinarias: Nutrición y Sabor en cada bocado',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   stylesheets: [
     {
@@ -83,7 +83,7 @@ const config: Config = {
       title: 'Recetas Nutritivas',
       logo: {
         alt: 'Logo de Recetas',
-        src: 'img/logo.svg',
+        src: 'img/favicon.png',
       },
       items: [
         {
