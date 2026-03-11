@@ -1,25 +1,36 @@
----
-sidebar_position: 0
----
+# Recetario (150 Recetas)
 
-# Índice de Recetas
+Bienvenido a tu nueva organización de recetas. Las 150 recetas se han diseñado para ser sustanciosas, equilibradas y elaboradas, ideales para nutrirse correctamente y disfrutar de grandes sabores a cualquier edad.
 
-Bienvenido a nuestra colección de **15 Recetas Nutritivas**. Aquí tienes opciones fáciles, bajas en ingredientes ultraprocesados y llenas de sabor para mejorar tu alimentación día con día.
+Las recetas se encuentran divididas en **14 categorías principales**, cada receta es un archivo independiente en formato Markdown:
 
-### Nuestras recetas:
+1. **Ricas en Proteínas (`01-proteinas`) - 11 recetas**
+   Pollo, pavo, legumbres, tofu, pescado.
+2. **Grasas Saludables (`02-grasas-saludables`) - 11 recetas**
+   Recetas con aguacate, frutos secos, semillas y aceite de oliva.
+3. **Carbohidratos Complejos (`03-carbohidratos-complejos`) - 11 recetas**
+   Basadas en avena, quinoa, arroz integral o camote (batata).
+4. **Desayunos Energéticos (`04-desayunos-energeticos`) - 11 recetas**
+   Bowls de avena, huevos, smoothies.
+5. **Almuerzos Completos (`05-almuerzos-completos`) - 11 recetas**
+   Ensaladas tibias, platos únicos balanceados.
+6. **Cenas Ligeras (`06-cenas-ligeras`) - 11 recetas**
+   Cremas de verduras, proteínas a la plancha.
+7. **Snacks/Meriendas (`07-snacks-meriendas`) - 11 recetas**
+   Hummus, barras de cereal caseras, fruta preparada.
+8. **Plant-Based (`08-plant-based`) - 11 recetas**
+   Veganas/Vegetarianas: Sin productos de origen animal.
+9. **Keto / Low Carb (`09-keto-low-carb`) - 11 recetas**
+   Bajas en carbohidratos.
+10. **Sin Gluten / Sin Lactosa (`10-sin-gluten-lactosa`) - 11 recetas**
+    Para personas con intolerancias.
+11. **Meal Prep (Express) (`11-meal-prep`) - 11 recetas**
+    Recetas que se pueden cocinar en lote para toda la semana.
+12. **Raw (Crudas) (`12-raw-crudas`) - 10 recetas**
+    Ensaladas vivas, carpaccios, sin cocción.
+13. **One-Pot (`13-one-pot`) - 10 recetas**
+    Recetas de una sola olla o sartén para ensuciar lo mínimo posible.
+14. **Air Fryer (`14-air-fryer`) - 10 recetas**
+    Frituras sin aceite, rápidas y ultra crujientes.
 
-1. [Ensalada de Quinoa y Aguacate](./1-ensalada-quinoa)
-2. [Tostadas de Atún con Limón](./2-tostadas-atun)
-3. [Bowl de Avena con Frutas (Porridge)](./3-bowl-avena)
-4. [Wrap de Pollo y Hummus](./4-wrap-pollo)
-5. [Salmón a la Plancha con Espárragos](./5-salmon-plancha)
-6. [Batido Verde Detox](./6-batido-verde)
-7. [Sopa de Lentejas Casera](./7-sopa-lentejas)
-8. [Tortilla de Claras y Espinacas](./8-tortilla-espinacas)
-9. [Tacos de Lechuga con Pavo Molido](./9-tacos-lechuga)
-10. [Pechuga de Pollo al Horno con Verduras](./10-pollo-horno)
-11. [Pudín de Chía y Frutos Rojos](./11-pudin-chia)
-12. [Garbanzos Tostados con Especias](./12-garbanzos-tostados)
-13. [Tostada de Aguacate y Huevo Poché](./13-tostada-aguacate)
-14. [Pollo al Curry con Leche de Coco](./14-pollo-curry)
-15. [Ensalada Caprese con Quinoa](./15-ensalada-caprese)
+¡Disfruta cocinando y explorando esta inmensa variedad de platillos llenos de aroma, texturas y elaboraciones magníficas!
