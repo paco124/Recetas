@@ -6,8 +6,15 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Recetas Nutritivas',
-  tagline: '15 recetas fáciles y saludables',
+  tagline: '150 Delicias Culinarias: Nutrición y Sabor en cada bocado',
   favicon: 'img/favicon.ico',
+
+  stylesheets: [
+    {
+      href: 'https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&family=Inter:wght@400;500;700&display=swap',
+      type: 'text/css',
+    },
+  ],
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
