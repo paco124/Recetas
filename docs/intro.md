@@ -8,47 +8,47 @@ Las recetas se encuentran divididas en **14 categorías principales**, cada rece
 
 ### 🥩 01. Ricas en Proteínas
 ![Proteínas](/img/categories/01-proteinas.png)
-Pollo, pavo, legumbres, tofu, pescado. [Explorar recetas.](01-proteinas/)
+Pollo, pavo, legumbres, tofu, pescado.
 
 ### 🥑 02. Grasas Saludables
 ![Grasas Saludables](/img/categories/02-grasas-saludables.png)
-Recetas con aguacate, frutos secos, semillas y aceite de oliva. [Explorar recetas.](02-grasas-saludables/)
+Recetas con aguacate, frutos secos, semillas y aceite de oliva.
 
 ### 🌾 03. Carbohidratos Complejos
-Basadas en avena, quinoa, arroz integral o camote (batata). [Explorar recetas.](03-carbohidratos-complejos/)
+Basadas en avena, quinoa, arroz integral o camote (batata). 
 
 ### 🥣 04. Desayunos Energéticos
-Bowls de avena, huevos, smoothies. [Explorar recetas.](04-desayunos-energeticos/)
+Bowls de avena, huevos, smoothies. 
 
 ### 🥗 05. Almuerzos Completos
-Ensaladas tibias, platos únicos balanceados. [Explorar recetas.](05-almuerzos-completos/)
+Ensaladas tibias, platos únicos balanceados. 
 
 ### 🥣 06. Cenas Ligeras
-Cremas de verduras, proteínas a la plancha. [Explorar recetas.](06-cenas-ligeras/)
+Cremas de verduras, proteínas a la plancha.
 
 ### 🥨 07. Snacks / Meriendas
-Hummus, barras de cereal caseras, fruta preparada. [Explorar recetas.](07-snacks-meriendas/)
+Hummus, barras de cereal caseras, fruta preparada.
 
 ### 🌿 08. Plant-Based
-Veganas / Vegetarianas: Sin productos de origen animal. [Explorar recetas.](08-plant-based/)
+Veganas / Vegetarianas: Sin productos de origen animal.
 
 ### 🥩 09. Keto / Low Carb
-Bajas en carbohidratos. [Explorar recetas.](09-keto-low-carb/)
+Bajas en carbohidratos.
 
 ### 🌾 10. Sin Gluten / Sin Lactosa
-Para personas con intolerancias. [Explorar recetas.](10-sin-gluten-lactosa/)
+Para personas con intolerancias.
 
 ### 🍱 11. Meal Prep (Express)
-Recetas que se pueden cocinar en lote para toda la semana. [Explorar recetas.](11-meal-prep/)
+Recetas que se pueden cocinar en lote para toda la semana.
 
 ### 🥗 12. Raw (Crudas)
-Ensaladas vivas, carpaccios, sin cocción. [Explorar recetas.](12-raw-crudas/)
+Ensaladas vivas, carpaccios, sin cocción.
 
 ### 🥘 13. One-Pot
-Recetas de una sola olla o sartén para ensuciar lo mí   9nimo posible. [Explorar recetas.](13-one-pot/)
+Recetas de una sola olla o sartén para ensuciar lo mí   9nimo posible.
 
 ### 🍟 14. Air Fryer
-Frituras sin aceite, rápidas y ultra crujientes. [Explorar recetas.](14-air-fryer/)
+Frituras sin aceite, rápidas y ultra crujientes.
 
 ---
 
